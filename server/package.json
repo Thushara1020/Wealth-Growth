@@ -1,0 +1,10 @@
+{
+  "name": "wealth-growth-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.mjs",
+    "start": "node index.mjs"
+  }
+}
